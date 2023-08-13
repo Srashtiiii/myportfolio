@@ -38,7 +38,7 @@ header{
     padding: 0;
     margin-top: auto;
     margin-bottom: auto;
-    color: white;
+    color: rgb(0, 0, 0);
     background-color: #fb6f92;
     box-sizing: border-box;
   }
@@ -62,5 +62,8 @@ header{
   }
   .up{
     transform: rotate(180deg);
+    margin-bottom: 0rem;
+    bottom: 0;
+    background-color:  #ffe5ec;
 
   }
