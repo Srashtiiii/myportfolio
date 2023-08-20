@@ -21,14 +21,16 @@ const About = () => {
                I thrive. Whether it's designing intuitive user
                 interfaces, optimizing website performance, or
                  ensuring cross-browser compatibility,
-                  I am dedicated to delivering high-quality web
-                   solutions.</p>
+                  I am dedicated to delivering high-quality web solutions.</p>
     </div>
+
+   
     <div className="irregular-shape">
         <img src={img} alt='profilepic'> 
         </img>
       </div>
   </section>
+  
   );
 };
 

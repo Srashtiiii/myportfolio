@@ -1,13 +1,13 @@
 .about-section {
   top: 0;
+  margin-bottom: 20rem;
+  
   display: flex;
   align-items: center;
 
 }
 
 .about-content {
-  flex: 1;
-  
   padding-left: 2rem;
   text-align: left;
 }
@@ -27,6 +27,7 @@
 
 .irregular-shape {
   position: relative;
+  margin-left: 20rem;
   overflow: hidden;
   width: 350px; /* Adjust the width */
   height: 400px; /* Adjust the height */

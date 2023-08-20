@@ -5,6 +5,12 @@
   
   .education-heading {
     font-size: 2rem;
+  background-color: #fb6f92;
+  padding: 0%;
+  height: 10rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
     margin-bottom: 2rem;
   }
   
